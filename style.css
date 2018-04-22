@@ -1,0 +1,18 @@
+*{
+    background-color: black; 
+    color: white; 
+    font-family: "Arial";
+    font-size:36pt;
+}
+
+.clock{
+    text-align:center;
+    width:auto;
+    height:auto;
+}
+
+.countdown{
+	text-align: center;
+	width: auto;
+	height: auto;
+}
